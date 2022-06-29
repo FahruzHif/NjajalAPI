@@ -4,3 +4,6 @@ Cara mengakses
 3. Jalankan CMD 
 4. ketik git clone https://github.com/FahruzHif/NjajalAPI.git
 5. done
+
+Tutor lebih lanjut hubungi pembuat
+
